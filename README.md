@@ -62,10 +62,10 @@ Participo en la documentación técnica, ejecución de casos de prueba y seguimi
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&show_icons=true&theme=dark&count_private=true&border_color=ffffff&border_radius=15&bg_color=0D1117&include_all_commits=true">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mendoza-Kevin&theme=dark&border=ffffff&fire=1877F2&ring=1877F2&currStreakLabel=ffffff&border_radius=15&background=0D1117">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&show_icons=true&theme=dark&count_private=true&border_color=ffffff&border_radius=12&bg_color=0D1117&include_all_commits=true">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mendoza-Kevin&theme=dark&border=ffffff&fire=1877F2&ring=1877F2&currStreakLabel=ffffff&border_radius=12&background=0D1117">
   <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&layout=compact&theme=dark&border_color=ffffff&bg_color=0D1117&border_radius=15" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&layout=compact&theme=dark&border_color=ffffff&bg_color=0D1117&border_radius=12" />
 
 </div>
 
