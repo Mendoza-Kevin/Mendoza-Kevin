@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mendoza-Kevin&label=Visitas&color=3ABEF9&style=flat-square" alt="Contador de visitas" />
-  <img src="https://img.shields.io/github/followers/Mendoza-Kevin?label=Seguidores&style=flat-square&color=3ABEF9" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=Mendoza-Kevin&label=Visitas&color=1877F2&style=flat-square" alt="Contador de visitas" />
+  <img src="https://img.shields.io/github/followers/Mendoza-Kevin?label=Seguidores&style=flat-square&color=2ECC71" alt="Seguidores" />
 </p>
 
 ---
@@ -60,13 +60,15 @@ Participo en la documentación técnica, ejecución de casos de prueba y seguimi
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0D1117&text_color=FFFFFF&title_color=3ABEF9&icon_color=3ABEF9&border_color=3ABEF9&hide_border=false&border_radius=12" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&layout=compact&theme=transparent&bg_color=0D1117&text_color=FFFFFF&title_color=3ABEF9&border_color=3ABEF9&hide_border=false&border_radius=12" />
+</div>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&show_icons=true&theme=dark&count_private=true&border_color=ffffff&border_radius=12&bg_color=0D1117&include_all_commits=true">
-  <br><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&layout=compact&theme=dark&border_color=ffffff&bg_color=0D1117&border_radius=12" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mendoza-Kevin&theme=react-dark&bg_color=0D1117&color=3ABEF9&line=3ABEF9&point=FFFFFF&hide_border=true&radius=12" />
+<br>
+
+<div align="center">
+  <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=Mendoza-Kevin&theme=dark&hide_border=false&background=0D1117&ring=3ABEF9&fire=3ABEF9&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9BA3AF&border=3ABEF9" />
 </div>
 
 ---
