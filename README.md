@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=1877F2&center=true&vCenter=true&width=750&lines=💻+FullStack+Developer;🧰+Quality+Assurance;🌐+Apasionado+por+el+Desarrollo+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=3ABEF9&center=true&vCenter=true&width=750&lines=💻+FullStack+Developer;🧰+Quality+Assurance;🌐+Apasionado+por+el+Desarrollo+Web&font=Fira+Code&weight=600" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mendoza-Kevin&label=Visitas&color=1877F2&style=flat-square" alt="Contador de visitas" />
-  <img src="https://img.shields.io/github/followers/Mendoza-Kevin?label=Seguidores&style=flat-square&color=1877F2" alt="Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=Mendoza-Kevin&label=Visitas&color=3ABEF9&style=flat-square" alt="Contador de visitas" />
+  <img src="https://img.shields.io/github/followers/Mendoza-Kevin?label=Seguidores&style=flat-square&color=3ABEF9" alt="Seguidores" />
 </p>
 
 ---
@@ -63,15 +63,14 @@ Participo en la documentación técnica, ejecución de casos de prueba y seguimi
 <div align="center">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&show_icons=true&theme=dark&count_private=true&border_color=ffffff&border_radius=12&bg_color=0D1117&include_all_commits=true">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mendoza-Kevin&theme=dark&border=ffffff&fire=1877F2&ring=1877F2&currStreakLabel=ffffff&border_radius=12&background=0D1117">
   <br><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&layout=compact&theme=dark&border_color=ffffff&bg_color=0D1117&border_radius=12" />
-
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mendoza-Kevin&theme=react-dark&bg_color=0D1117&color=3ABEF9&line=3ABEF9&point=FFFFFF&hide_border=true&radius=12" />
 </div>
 
 ---
 
-## 💡 Filosofía de Código  
+## 💡 Filosofía  
 
-> “El código bien escrito no solo funciona,  
-> también se entiende, se mantiene y deja huella.” 💡
+> “Programar es convertir la lógica en arte y las ideas en soluciones que inspiran.” ✨
