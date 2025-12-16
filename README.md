@@ -73,6 +73,38 @@ Me enfoco en construir soluciones **robustas, escalables y confiables**, aplican
 
 ---
 
+## <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="28"/> Actividad y Estadísticas de GitHub  
+
+<div align="center">
+
+<!-- Activity Graph (ancho completo) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mendoza-Kevin&bg_color=0D1117&color=3ABEF9&line=6F42C1&point=FFFFFF&area=true&hide_border=true" />
+
+<br><br>
+
+<!-- Stats + Streak -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Mendoza-Kevin&theme=default&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&theme=vue-dark&hide_border=true&layout=compact&langs_count=6" />
+
+</div>
+
+
+---
+
+
 ## <img src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" width="26"/> Quote  
 
 > *“La calidad no se prueba al final: se construye desde la primera línea de código.”*
