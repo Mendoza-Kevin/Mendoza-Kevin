@@ -89,15 +89,12 @@ Me enfoco en construir soluciones **robustas, escalables y confiables**, aplican
       <img src="https://github-readme-stats.vercel.app/api?username=Mendoza-Kevin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Mendoza-Kevin&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&theme=vue-dark&hide_border=true&layout=compact&langs_count=6" />
     </td>
   </tr>
 </table>
 
 <br>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza-Kevin&theme=vue-dark&hide_border=true&layout=compact&langs_count=6" />
 
 </div>
 
